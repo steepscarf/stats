@@ -6,7 +6,7 @@ _MinecraftStats_ is a web browser application for the [statistics](https://minec
 
 The presentation is done by giving __awards__ to players for certain achievements. For example, the player who played on the server for the longest total time receives the _Dedication_ award. Every award has a viewable ranking associated to it with __medals__ - the award holder gets the gold medal, the second the silver medal and the third the bronze medal for the award. Each medal gives players a __crown score__ (1 for every bronze medal, 2 for every silver, 4 for every gold medal), which is displayed in a server __hall of fame__.
 
-A live demo of _MinecraftStats_ in action is available here: [DVG Snapshot Stats](http://mine3.dvgaming.com/). Feel free to join the project's [Discord](https://discord.gg/brH5PGG8By) for help &ndash; or just for fun!
+A live demo of _MinecraftStats_ in action is available here: [DVG Snapshot Stats](http://artem44370.github.io/). Feel free to join the project's [Discord](https://discord.gg/ptgagDMv) for help &ndash; or just for fun!
 
 ## Overview
 
