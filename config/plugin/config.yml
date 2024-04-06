@@ -1,0 +1,25 @@
+data:
+  documentRoot: null
+  eventsDir: "events"
+  statsDir: "stats"
+  unpackWebFiles: true
+  updateInterval: 5
+  webSubdir: "stats"
+crown:
+  bronze: 1
+  silver: 2
+  gold: 4
+client:
+  defaultLanguage: "en"
+  playersPerPage: 100
+  playerCacheUUIDPrefix: 2
+  serverName: null
+  showLastOnline: true
+players:
+  inactiveDays: 90
+  updateInactive: true
+  profileUpdateInterval: 3
+  minPlaytime: 60
+  excludeBanned: true
+  excludeOps: false
+  excludeUUIDs: []
