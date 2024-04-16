@@ -1,12 +1,12 @@
 # MinecraftStats
 
-[![Minecraft 1.13 to 1.12](https://img.shields.io/badge/Minecraft-1.13%20--%201.20-brightgreen)](https://www.minecraft.net/) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://github.com/pdinklag/MinecraftStats/blob/master/LICENSE.txt) [![Example Installation at DVGaming.com](https://img.shields.io/badge/Example-DVGaming.COM%20Snapshot%20Server-blue)](http://mine3.dvgaming.com/) [![Discord](https://img.shields.io/discord/850982115633790976.svg?label=Discord&logo=discord&logoColor=ffffff&color=8399E8&labelColor=7A7EC2)](https://discord.gg/brH5PGG8By)
+[![Minecraft 1.13 to 1.12](https://img.shields.io/badge/Minecraft-1.13%20--%201.20-brightgreen)](https://www.minecraft.net/) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://github.com/pdinklag/MinecraftStats/blob/master/LICENSE.txt) [![Example Installation at DVGaming.com](https://img.shields.io/badge/Example-DVGaming.COM%20Snapshot%20Server-blue)](http://mine3.dvgaming.com/) [![Discord](https://img.shields.io/discord/850982115633790976.svg?label=Discord&logo=discord&logoColor=ffffff&color=8399E8&labelColor=7A7EC2)](https://discord.gg/e8PJAUHg)
 
 _MinecraftStats_ is a web browser application for the [statistics](https://minecraft.wiki/w/Statistics) that Minecraft servers collect for players.
 
 The presentation is done by giving __awards__ to players for certain achievements. For example, the player who played on the server for the longest total time receives the _Dedication_ award. Every award has a viewable ranking associated to it with __medals__ - the award holder gets the gold medal, the second the silver medal and the third the bronze medal for the award. Each medal gives players a __crown score__ (1 for every bronze medal, 2 for every silver, 4 for every gold medal), which is displayed in a server __hall of fame__.
 
-A live demo of _MinecraftStats_ in action is available here: [DVG Snapshot Stats](http://mine3.dvgaming.com/). Feel free to join the project's [Discord](https://discord.gg/brH5PGG8By) for help &ndash; or just for fun!
+A live demo of _MinecraftStats_ in action is available here: [DVG Snapshot Stats](http://mine3.dvgaming.com/). Feel free to join the project's [Discord](https://discord.gg/e8PJAUHg) for help &ndash; or just for fun!
 
 ## Overview
 
